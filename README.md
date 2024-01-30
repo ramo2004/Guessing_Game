@@ -1,1 +1,1 @@
-# An introductory python project in which the computer guesses a users number in mind. 
+# A fun Python game that guesses your number.
