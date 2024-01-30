@@ -1,1 +1,1 @@
-# An introductory python project in which the computer tries to guess the users number in mind. 
+# An introductory python project in which the computer guesses a users number in mind. 
